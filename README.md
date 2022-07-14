@@ -1,0 +1,1 @@
+This repo is used to store blog post comments for the 2022 version of dankrishnan.com (currently being worked on). As soon as it's built I'll make the main repo public.
